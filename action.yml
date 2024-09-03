@@ -1,6 +1,8 @@
 name: 'Wrapper action sample'
+description: 'Github actions'
 inputs:
   name:
+    description: 'Año 95'
     default: 'GitHub'
 
 runs:
